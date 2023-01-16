@@ -24,6 +24,8 @@ const Search = (props) => {
         setRecettes([]);
     }
 
+
+
     const getRandomRecettes = async () => {
         try {
             const response = await fetch(`https://api.spoonacular.com/recipes/random?number=10&apiKey=${API_KEY}`);
@@ -93,6 +95,11 @@ const Search = (props) => {
                 getRecettes(searchText, currentNbRecettes);
             }}>
                 <Text >Chercher</Text>
+            </Pressable>
+            <Pressable onPress={() => {
+                changeText("");
+            }}>
+                <Text >cancel</Text>
             </Pressable>
             {content}
         </View>

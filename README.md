@@ -4,7 +4,7 @@ Merci d'indiquer, pour chaque fonctionnalité, si vous l'avez réalisé.
 
 - Récupérer une liste de recettes aléatoires [NON]
 - Récupérer la liste des recettes avec une recherche [OUI]
-- Annuler une recherche [NON]
+- Annuler une recherche [Partiellement]
 - Charger plus de résultats (aléatoires ou recherche) [OUI]
 - Naviguer vers la page de détails (depuis la recherche) [NON]
 - Afficher les informations de la recette [NON]
@@ -33,5 +33,7 @@ Impossible de trouver la source de l'erreur.
 
 J'ai aussi un petit soucis avec le scroll, il ne fonctionne pas si je descend trop vite.
 Je pense que c'est a cauqe de la limitation de requete à la seconde sur l'api.
+
+Pour annuler une recherche, il reste encore le text dans l'input mais la liste est bien reset
 
 
