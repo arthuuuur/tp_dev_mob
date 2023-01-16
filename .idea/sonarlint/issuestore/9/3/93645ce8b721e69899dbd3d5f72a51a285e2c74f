@@ -1,0 +1,11 @@
+
+djavascript:S1481"CRemove the declaration of the unused 'getRandomeRecettes' variable.(ßª‰ ûÿÿÿÿ
+ajavascript:S1854"@Remove this useless assignment to variable "getRandomeRecettes".(ßª‰ ûÿÿÿÿ
+ejavascript:S1481?"IRemove the declaration of the unused 'navigateToRecetteDetails' variable.(ï¿ûø
+bjavascript:S1854?"FRemove this useless assignment to variable "navigateToRecetteDetails".(ï¿ûø
+Cjavascript:S6480L"(JSX props should not use arrow functions(ùˆ£B
+Cjavascript:S6480L"(JSX props should not use arrow functions(ùˆ£B
+Ijavascript:S6480M"(JSX props should not use arrow functions(şĞ§ûøÿÿÿÿ
+Ijavascript:S6480N"(JSX props should not use arrow functions(’®É£øÿÿÿÿ
+Ijavascript:S6480U"(JSX props should not use arrow functions(ÈÀñÒüÿÿÿÿ
+Ijavascript:S6480V"(JSX props should not use arrow functions(µ™şÿÿÿÿ
